@@ -1,5 +1,5 @@
 # Ina Woo 
-Hanyang Univ. ERICA
+Hanyang Univ. ERICA </br>
 Infomation Sociology & Communication Design
 
 <!--
