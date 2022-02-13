@@ -1,4 +1,6 @@
-### Hi there 👋
+# Ina Woo 
+Hanyang Univ. ERICA
+Infomation Sociology & Communication Design
 
 <!--
 **ina106/ina106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
